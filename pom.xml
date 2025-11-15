@@ -39,7 +39,8 @@
     <repository>
       <id>github</id>
       <name>GitHub Apache Maven Packages</name>
-      <url>https://github.com/CS1632-Fall2025/supplementary-exercise-4-ci-cd-pipelines-ZHOU149</url>
+      <url>https://maven.pkg.github.com/CS1632-Fall2025/supplementary-exercise-4-ci-cd-pipelines-zhou149</url>
+      <artifactId>cs1632-cicd-pipelines-zhou149</artifactId>
     </repository>
   </distributionManagement>
 
